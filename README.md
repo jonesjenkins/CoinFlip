@@ -11,7 +11,7 @@ Developed By: Jones Jenkins<br/><br/><br/><br/>
 
 1. Introduction<br/>
    1. Purpose<br/>
-      a. This project documentation contains the Concept, How-To-Steps, and References for the game, Snake, designed in Python. This document is intended for developers and end users.<br/>
+      a. This project documentation contains the Concept, How-To-Steps, and References for the game, Coin Flip, designed in Python. This document is intended for developers and end users.<br/>
 	 2. Scope<br/>
       a. This is a coin flip game that uses a random number to show heads or tails to the user.
    3. Overview<br/>
