@@ -24,7 +24,7 @@ Developed By: Jones Jenkins<br/><br/><br/><br/>
 
 
 2. Concept<br/>
-   - This application is an iteration of the popular game Snake. It consists of one screen:<br/>
+   - This application is a coin flip appication. It consists of one screen:<br/>
      1. Game - User clicks the screen to flip the coin which results in heads or tails.<br/>
 	
 
