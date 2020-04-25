@@ -5,7 +5,7 @@
 
 Project Name: Coin Flip<br/>
 Development Language: Python<br/><br/>
-Developed By: Jones Jenkins<br/><br/><br/><br/>
+Developed By: Jones Jenkins<br/><br/>
 
 
 
